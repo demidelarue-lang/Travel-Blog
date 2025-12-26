@@ -119,6 +119,16 @@ padding-top:12px;
   padding-left: 50px;
   padding-right: 50px;
 }
+#quizz{
+  width:100%;
+  height:80vh;
+  text-align: center;
+  background-color: #bbf8dc;
+}
+#quizz img{
+  width:280px;
+  height:200px;
+}
 
 #dragon{
     width: 200px;
